@@ -1,0 +1,46 @@
+UHID: AHJN.000031 1592
+
+24-Apr-2025 01:28 PM
+
+Hemoglobin 11.3 g/dL 11.5 - 14.5
+(Photometry)
+Basophils 00 % 0-1
+Platelet Count 266 10°/mm? 150-450
+(IMPEDENCE)
+RBC COUNT 4.2 Million/ul 3.8-4.8
+METHOD: (AUTOMATED
+:IMPEDANCE)
+Packed cell volume 34.5 % 30 - 46
+(METHOD:CALCULATED)
+WBC count 14.2 10°/mm? 4-11
+(METHOD:AUTOMATED
+:IMPEDANCE)
+I
+Neutrophils 93 % 40-75
+Lymphocytes 05 % 20-40
+Monocytes 01% 0-10
+Eosinophils 01% 1-6
+
+HEMOGLOBIN (AUTOMATION)
+
+25-Apr-2025 03:43 AM
+
+Hemoglobin 9.7 g/dL 11.5 - 14.5
+(Photometry)
+
+PCV- PACKED CELL VOLUME
+25-Apr-2025 03:43 AM
+
+Packed cell volume 28.6 % 30 - 46
+(METHOD:CALCULATED)
+
+Microbiology
+HBS ANTIGEN
+23-Apr-2025 10:50 AM
+
+HCV - HEPATITIS C VIRUS
+23-Apr-2025 10:50 AM
+
+HIV 1 AND II RAPID
+23-Apr-2025 10:49 AM
+

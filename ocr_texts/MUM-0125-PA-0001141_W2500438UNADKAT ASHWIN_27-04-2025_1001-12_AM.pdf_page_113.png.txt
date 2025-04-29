@@ -1,0 +1,80 @@
+PATIENT REPORT
+
+Identifications
+Patient ID W2500438
+
+Patient Last
+Patient
+
+Sample Arterial
+7
+
+03:58 PM
+Sample #
+
+RADIOMETER ABL800 FLEX
+
+ABL835 RUBY-WANAWORIE NABIL MC-5307
+Syringe - S 195uL
+
+1/21/2025
+41361
+
+7.350 - 7.450 ]
+
+35.0 -
+83.0 -
+
+45.0
+108
+
+146
+
+- 5.0
+
+1.29
+105
+
+22.0°C
+FO,{I) 21.0 %
+Blood Gas Values
+pH 7.413
+poco, 41.5 mmko
+t po, 47.1 mmk¢
+Acid Base Status
+cHGO,(P.st)¢ 25.9 mmo.
+cHCO,(P)e 26.0 mmo /_
+c1CO,(B)e 56.38 Vol%
+cBase(B)o 1.3 mmo/_
+cBase(Ecf)¢ 1.3 mmo/.
+Baro 704 mmHq
+Oximetry Values
+ctHb 5.2 gel
+Hete 19.6 %
+sO, 79.0 %
+ctO.¢ 5.3 ©Vol%
+FO,Hb 76.5 “%
+FCOHb 1.5 %%
+Electrolyte Values
+cNa* 137 mmo /_
+okt 3.9 mmo/_
+4 cCa* 1.09 mmo /
+ech 104 mmo /L.
+Metabolite Values
+# clac 48. mmol.
+Temperature Corrected Values
+PH(T )o 7.634
+pCO,(T Je 20.1 mmec¢
+pO.T Ne 15.3 mmHg
+Oxyger Status
+FShunte 23.4 %
+p50- 29.25 mmc
+Notes
+4 Value(s) below reference range
+? Value(s) above the critical lirnits
+c Calculated value(s)
+e Estimated value(s)
+
+]
+]
+

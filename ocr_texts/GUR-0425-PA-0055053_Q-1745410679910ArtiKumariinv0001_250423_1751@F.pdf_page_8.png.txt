@@ -1,0 +1,142 @@
+Diagnostics Report ~
+: on
+
+PATIENT J Ss
+ES vast -
+
+SECTOR 10, A, VASHI, SECTOR 10, MINI SEA
+
+SHORE ROAD,SECTOR 10, A, VASHI,
+NAVI MUMBAI 400703
+022 39199222
+
+CLINICAL INFORMATION :
+
+UID:13424637 REQNO-21208267
+JPD-4B
+
+Test Report Status Final
+
+LYMPHOCYTES
+METHOD : FLOW CYTOMETRY WITH LIGHT SCATTERING
+MONOCYTES
+METHOD : FLOW CYTOMETRY WITH LIGHT SCATTERING
+EOSINOPHILS
+METHOD : FLOW CYTOMETRY WITH LIGHT SCATTERING
+BASOPHILS
+METHOD : FLOW CYTOMETRY WITH LIGHT SCATTERING
+ABSOLUTE NEUTROPHIL COUNT
+METHOD : CALCULATED PARAMETER
+ABSOLUTE LYMPHOCYTE COUNT
+METHOD : CALCULATED PARAMETER
+ABSOLUTE MONOCYTE COUNT
+METHOD : CALCULATED PARAMETER
+ABSOLUTE EOSINOPHIL COUNT
+METHOD : CALCULATED PARAMETER
+ABSOLUTE BASOPHIL COUNT
+METHOD : CALCULATED PARAMETER
+
+MORPHOLOGY (MICROSCOPY)
+
+RBC
+
+METHOD : MICROSCOPIC EXAMINATION
+WBC
+
+METHOD : MICROSCOPIC EXAMINATION
+PLATELETS
+
+METHOD : MICROSCOPIC EXAMINATION
+
+Interpretation(s)
+
+PATIENT ID
+
+Se
+
++ FH.13424637
+
+CLIENT PATIENT ID: UID:13424637 RECEIVED
+
+ABHA NO
+
+11 Low
+
+10
+
+1
+
+0
+
+4.71
+
+0.66 Low
+
+0.60
+
+0.06
+
+0
+
+{ REPORTED
+
+ilus >
+
+4) Fortis _ diagnostics
+
+HE 12:56:00
+‘ER 22:58:13
+HE 16:31:49
+
+Biological Reference Interval Units
+
+20.0 - 40.0
+2.0 - 10.0
+1-6
+
+0-2
+
+2.0 - 7.0
+1.0 - 3.0
+0.2 - 1.0
+0.02 - 0.50
+0.0 - 0.1
+
+MILD HYPOCHROMASIA, NORMOCYTIC
+
+NORMAL MORPHOLOGY
+
+ADEQUATE
+
+%
+%
+%
+%
+thou/yL
+thou/pL
+thou/pL
+thou/yL
+
+thou/pL
+
+RBC AND PLATELET INDICES-Mentzer Index (MCV/RBC) is an automated cell-counter based calculated screen tool to differentiate cases of Iron defictency anaemla(>13)
+from Beta thalassaemia tralt (<13) in patients with microcytic anaemia. This needs to be interpreted fn JIne with clinical correlation and suspicion. Estimation of HbA2
+remains the gold standard for diagnosing a case of beta thalassaemia trait.
+
+Dr.Snehalkumar Prahladrao
+Padghane (Reg No. MMC
+
+Consultant Pathologist
+
+PERFORMED AT :
+Agilus Diagnostics Ltd
+
+Hiranandani Hospital (A Fortis Network Hospital), Mini Seashore Road, Sector 10A,Vashi
+
+Navi Mumbai, 400703
+Maharashtra, India
+
+CIN -
+
+Pane
+

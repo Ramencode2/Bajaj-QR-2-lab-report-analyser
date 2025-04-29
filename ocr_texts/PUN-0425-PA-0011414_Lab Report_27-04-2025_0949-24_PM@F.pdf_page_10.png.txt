@@ -1,0 +1,127 @@
+=
+
+Patient ID
+Patient's I ff
+Ref.
+
+Test Name
+
+HEMOGLOBIN
+Total R.B.C.
+Total W. B.C.
+
+DIFFERENTIAL COUNT
+
+€2o1ymorphs
+Lymphocytes
+Eosinophils
+Monocytes
+Basophils
+
+PLATELET COUNT
+BLOOD INDICES
+
+H.C.T.
+M.C.V.
+M.C.H.
+M.C.H.C.
+R.D.W.
+M.P.V.
+é Iateletcrit (PCT)
+RBC Morphology
+
+Platelets on Smear
+
+roe
+
+: Dr.Shree Parth Hospital
+WUBUCE MENTE ININNIEIAE
+
+Observed Value
+
+PARTH
+
+PATHOLOGY
+
+Collection Date:
+
+LABORATORY
+ee
+
+Reporting Date
+
+Unit
+
+HAEMATOLOGY REPORT
+
+: 12.0
+: 4.42
+: 16900
+
+: 83
+212
+1 03
+: 02
+: 00
+: 1.76
+
+: 40.10
+> 90.72
+: 27.15
+: 29.93
+: 10.2
+
+: 6.62
+
+: 0.160
+
+: Normocytic
+Normochromic
+
+: Adequate on Smear
+
+mg/dl
+mill/cumm
+/cumm
+
+%
+%
+%
+%
+%
+Lakhs /emm
+
+Reference Range
+
+13.5-17.5
+456.2
+4000-11000
+
+40-75
+20-45
+16
+28
+04
+1545
+
+45-52
+84-96
+27-32
+30-36
+10.0-15.0
+6.5-11.0
+0.100-0.500
+
+“Please correlate repogts wi
+
+*** End of Report ***
+
+Lab Technician
+
+ital, Banarsi Nagar, Hirawadi Panchavati, Nashik. S
+
+Va
+
+Dr.D.P.Rajput
+MBBS,DCP
+

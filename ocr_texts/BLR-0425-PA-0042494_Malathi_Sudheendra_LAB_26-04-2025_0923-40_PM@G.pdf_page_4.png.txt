@@ -1,0 +1,180 @@
+TEL:
+
+Service
+
+Lab No: 72302128
+WA/MBM -040)
+
+IP (GENERAL
+
+Referred By: Dr. NEPHROLOGY TEAM
+
+CULTURE, AEROBIC, PUS
+CULTURE METHOD
+
+REMARKS:
+SPECIMEN TYPE :
+
+Result Finalized
+
+<OBX.5.1><OBX.5.
+1.1>Aerobic
+Culture,
+</OBX.5.1.1><OBX
+-5.1.2> AST
+performed by
+VITEK 2
+
+Compact .</OBX.5.
+1.2></OBX.5.1>
+
+Moderate growth.
+
+Pus
+
+Order Date - | 7:36PM
+
+Lab No: 72301016
+WA/MBM -040)
+
+IP (GENERAL
+
+Referred By: Dr. NEPHROLOGY TEAM
+
+RENAL PROFILE 1
+ALBUMIN
+BICARBONATE
+CALCIUM
+
+CHLORIDE
+CREATININE
+PHOSPHORUS
+POTASSIUM
+SODIUM
+ALBUMIN
+BICARBONATE
+CALCIUM
+
+CHLORIDE
+CREATININE
+PHOSPHORUS
+POTASSIUM
+
+Result Finalized
+
+3.8
+17.0
+7.4
+
+98.1
+4.26
+4.65
+6.78
+131.7
+3.8
+17.0
+7.4
+
+98.1
+4.26
+4.65
+6.78
+
+Diagnostic Report
+
+Study Date- J 10:17a"
+
+Released Date: fF 5:20PM
+
+null
+
+null
+null
+
+Bill No.
+
+IP7/CR25/84230
+
+Study Date- 7: 442"
+
+Released Date: fF 8:24AM
+
+g/dl
+mmol
+
+mg/d
+
+mmo
+mg/d
+mg/d
+mmo
+mmo
+
+g/d
+
+mmo
+
+mg/d
+
+mmol
+mg/d
+mg/d
+
+mmol
+
+/L
+1
+
+/L
+1
+1
+/L
+/L
+
+/L
+1
+
+/L
+1
+1
+
+/L
+
+3.97-4.94 g/dL
+22-29 mmol/1
+
+Cord blood : 8.2-11.2
+mg/dLNewborn,Premature : 6.2-11.0
+
+mg/dLChildren (0-10 days) : 7.6-10.4 mg/dL
+Children (10 days-2 years): 9.0-11.0
+mg/dLChildren (2-12 years) : 8.8-10.8
+mg/dLChildren (12-18 years) : 8.4-10.2
+mg/dL Adults (18-60 years) : 8.6-10.0
+mg/dLAdults (60-90 years) : 8.8-10.2
+mg/dLAdults (> 90 years) : 8.2-9.6 mg/dL
+
+98-107 mmol/1
+0.6-1.2 mg/dl
+2.6-4.5 mg/dl
+3.5-5.5 mmol/1
+135-148 mmol/L
+3.97-4.94 g/dL
+22-29 mmol/1
+
+Cord blood : 8.2-11.2
+mg/dLNewborn, Premature : 6.2-11.0
+mg/dLChildren (0-10 days) : 7.6-10.4 mg/dL
+Children (10 days-2 years): 9.0-11.0
+
+mg/dLChildren (2-12 years) : 8.8-10.8
+mg/dLChildren (12-18 years) : 8.4-10.2
+mg/dL Adults (18-60 years) : 8.6-10.0
+mg/dLAdults (60-90 years) : 8.8-10.2
+mg/dLAdults (> 90 years) : 8.2-9.6 mg/dL
+
+98-107 mmol/1
+0.6-1.2 mg/dl
+2.6-4.5 mg/dl
+
+3.5-5.5 mmol/1

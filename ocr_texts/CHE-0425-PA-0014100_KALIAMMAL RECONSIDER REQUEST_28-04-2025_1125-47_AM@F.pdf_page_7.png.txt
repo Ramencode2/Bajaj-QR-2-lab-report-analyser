@@ -1,0 +1,48 @@
+OR
+
+wou ASHM-QF-LS(HM)-26
+
+Name Mrs. KALIAMMAL M
+UHID : ASM | MMHIP137802
+
+SIN \LRN + 51180467 \ 17001330
+Specimen Whole Blood ( EDTA )
+Ref Doctor Or. RAJESH PRABHU P
+
+Collected on 22-APR-2025 04:14:31 PM Received on 22-APR-2025 05:07:25 PM Reported on 22-APR-2025 05:26:45 PM
+
+BIOLOGICAL REFERENCE INTERVALS UNITS
+
+HEMOGLOBIN (AUTOMATION)
+
+Hemoglobin(Optical/impedance) 11.5 - 16.0 gm%
+Packed cell volume(Calculated) 37 - 47 %
+
+WBC Count(Optical/impedance) 4-1 10°%mm?*
+Platelet Count(Optical/impedance) 150 - 450 10°%/mm?
+RBC COUNT(Optical/impedance) 37 - 56 Million/ul
+MCV(Optical/impedance) 88 75 - 95 fl
+
+MCH(Calculated) 29 26 - 32 pg
+
+MCHC(Catculated) 33 31 - 36 gidl
+Differential Count(Optical/impedance/Microscopy)
+
+Neutrophils 93° 40 - 80 %
+
+Lymphocytes 04° 20 - 40 %
+
+Monocytes %
+
+Report Status:Final
+
+CHECKED BY : 1146673
+1284871
+
+OR.B.NANDHINI BALA,
+
+26-APR-2025 05:48:37
+pai PATHOLOGY
+
+Page 1 of 1
+

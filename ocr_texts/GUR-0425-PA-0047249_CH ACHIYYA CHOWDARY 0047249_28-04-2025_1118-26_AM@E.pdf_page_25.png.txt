@@ -1,0 +1,51 @@
+sey HOSPITALS Ss Q SASH
+
+LABORATORY INVESTIGATION REPORT
+
+ration i TT Age/Sex a
+UHID : AIGG.20118473 Order Date : 04:29
+Episode : IP IP/Bed t 111620 / 765
+Ref. Doctor : Dr. GY RAO Mobile No :
+
+Facility : AIG Hospitals, Gachibowli
+
+Biochemistry
+
+we
+TT BIOLOGIA, REF INTERVAL
+Sample No; AGILO1B948B Collection Date { ae: Ack Date: 10/04/2025 06:15 Report Date: 10/04/25. .07:52
+
+RFT-RENAL FUNCTION TESTS (UREA, CREAT, ELECT)
+
+Sample Type-
+
+BLOOD UREA , Serum 43 mg/d 13-43
+Method - UREASE KINETIC
+
+SERUM CREATININE , ein 1.03 mg/dl. 0.67 - 1.17
+Method - Kinane Jarfe's - fON4S Ts
+
+SODIUM , Serum 136 mEq/L 136 - 145
+Method « ISE INBIRECT
+
+POTASSIUM , Serum St mEq/L 3.5-5.1
+Method - ISE OIRECT
+
+CHLORIDE , Serum 102 mEq/L 98 - 107
+
+Method ~ISE INDIRECT
+
+Interpretations: Aids in diagnosis and
+screening, screening patients disease,
+
+Report Saved By - V.KIRAN BABU EE
+
+Dr.G, DEEPIKA
+
+MO Biochemistry, Sr.Consultant
+HOD Biochemistry
+
+O Mindspace Road, Gachibowli
+
+CIN: U9e
+

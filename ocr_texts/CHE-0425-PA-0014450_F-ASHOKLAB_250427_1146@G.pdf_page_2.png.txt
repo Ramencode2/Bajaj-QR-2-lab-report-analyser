@@ -1,0 +1,31 @@
+Referred By
+
+Receiving Date 25 Apr 2025 11:54
+
+TEST
+
+C-REACTIVE PROTEIN, CRP
+
+Method: Immunoturbidimetric
+SPECIMEN SERUM
+
+HBTEJAS SURESH RAO
+
+| as
+7 a
+Collection Date: 25 Apr 2025 11:54
+
+Reporting Date: 25 Apr 2025 14:08
+
+BIOCHEMISTRY
+
+RESULT UNIT BIOLOGICAL REFERENCE INTERVAL
+
+C-Reactive Protein (Quantitative)
+
+16.17 # mg/dl [<0.5]
+
+END OF REPORT
+
+DR SOUMYA GUPTA
+MBBS. MD(Pathology)

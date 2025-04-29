@@ -1,0 +1,76 @@
+SRINIVASAN RAJALAKSHMI MEMORIAL HOSPITAL
+CLINICAL LABORATORY
+
+| es ||
+
+PATIENT ID :
+
+SID.NO. : 01002270 SAMPLE REG.ON =: SR 17:57:45
+PATIENT : Mrs PREMA.K.R SAMPLE COLLECTED 9 i
+es: oe
+MEE Dr. s.kRISHNAN, MD., REPORTED ON : RR 20:05:48
+
+Test Result Units Flag Biological
+
+(Specimen/ Method) Interval
+
+1 HOUR 20 mm/hr 5-20
+
+(WESTERGREN)
+
+SEROLOGY
+LEPTOSPIRA IGG NEGATIVE [7.23] NTU Less than 9 NTU : Negative
+(SERUM / ELISA) 9 - 11 NTU : Equivocal
+More than 11 NTU : Positive.
+LEPTOSPIRA IGM NEGATIVE [6.99] Units Less than 9 Units : Negative
+
+(SERUM / ELISA)
+
+9 = 11 Units : Equivocal
+More than 11 Units : Positive
+
+This test detects Abs to about 250 Pathogenic Serovars of the Leptospira specis L.Interrogans. IgM Abs
+to Leptospira is present from the third Day of Infection and may persist upto 5 months after infection.
+
+SCRUB TYPHUS IGM
+(SERUM / ELISA)
+
+WIDAL (AGGLUTINATION)
+(SERUM / AGGLUTINATION)
+S.TYPHI "0"
+
+S.TYPHI "H"
+
+S.PARATYPHI "AH"
+
+NEGATIVE The
+detection of scrub
+typhus IgM, helps to
+diagnose exposure
+to Orientia
+tsutsugamushi an
+infectious disease.
+Results should be
+interpreted in
+context to clinical
+symptoms and other
+laboratory findings.
+Laboratory reports
+should not be
+interpreted in
+isolation. Always
+correlate with
+clinical and imaging
+data.
+
+Negative: < 9
+Equivocal: 9-11
+Positive: > 11
+
+NEGATIVE 1 in 20 DILUTIONS
+
+NEGATIVE 1 in 20 DILUTIONS
+
+NEGATIVE 1 in 20 DILUTIONS
+
+11/77, 6th Street, Voltas Colony, Nanganallur, Chennai - 600 061.

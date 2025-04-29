@@ -1,0 +1,45 @@
+Rajasthan
+Hospital
+
+Diagnostics S.No. : TT : RH/23/002750)31504747
+
+Patient NAME : Mr. MAN MOHAN NATH ZUTSHI TPDNo
+Age/Sex
+Sector
+
+: 23916
+
+Reporting Date 27-Jan-2023 97:29 PM
+
+Test Name Status Result Reference Range Unit
+i BIOCHEMISTRY
+KIDNEY FUNCTION TEST KFT RFT (SERUM)
+Urea, Blood, Grease GLOH reaction H 183.3" 16,60-48,5 mg/dt
+Creatinine, Serum, Jaffe Methoa H 69° 0.70-1.20 mg/di
+Uric Acid, Serurn, Uricase Peroxidase Resction H 7.6* 3.4-7.0 mg/ai
+Bs
+Saenple Type: Sewn
+ELECTROLYTES (SERUM)
+Sodium, Serum, iSé - indirect 143 136,0-145.0 mmol/L
+Potassium, Serum, ISE - indirect 5.1 3.50-5.10 mmol/L
+} Chloride, iSE- indirect 106.9 98,0-109.0 mmol/L
+LFT LIVER FUNCTION TEST (SERUM)
+Bitirubin, Total, Olazc methodycoterimatrcevfandranstk 0.4 0.30-1.40 mg/dl
+| Bilirubin, Direct, Diazo method{colorimetrice Yendressik 0.2 0.00-0.20 mg/dl
+Bilirubin, Indirect, Ceculeted 0.2 0.10-4.00 mg/dL
+| SGOT (AST), Serum, iFCC with PYP 19.8 0.0-40.0 UAL
+SGPT (ALT), Serum, cc win Pye 15.1 0.0-41.0 UA
+| Creating Phosphatase (ALP), Serum, pnp aup 75 35.0-128.0 UA
+Protein, Total, Biuret - colorimetric 6.7 6.0-8.0 g/d
+| Albumin, 806 - Cuterimetrie 3.8 3.5-6.2 g/dL.
+| Globulin, Caicutsted 29 2.00-3.50 g/dl
+AIG Ratio, Catcwoted 1.3
+be at we
+Test (s) performed on collected sample (s) received . Please correlate with clinical findings & other related investigations,
+| ‘Subject to jaipur jurisdiction, only. This repon is not for medico-legal Purpose.
+
+Mahavir Jaipuriya
+
+Rajasthan Hospital, RHL
+BILN Marg, Jaipur-302018 +91 141 2720020 @www.rajasthanhospital.in
+

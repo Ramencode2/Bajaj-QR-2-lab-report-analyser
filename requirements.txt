@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+pytesseract
+opencv-python
+numpy
+Pillow
+--index-url https://pypi.org/simple
+--only-binary :all: 

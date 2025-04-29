@@ -1,0 +1,136 @@
+PROTHROMBIN TIME(PT)
+INR
+" 22/Apr/2025 08:13PM
+BIOCHEMISTRY
+SUGAR(G/M)
+SUGAR(G/M)
+
+23/Apr/2025 07:31AM
+SUGAR
+
+SUGAR(G/M)
+PROTHROMBIN TIME(PT)
+INR
+23/Apr/2025 08:23AM
+MICRO-BIOLOGY
+. URINECULTURE
+23/Apr/2025 08:13PM
+BIOCHEMISTRY
+SUGAR(G/M)
+SUGAR(G/M)
+24./Apr/2025 07:23AM
+BIOCHEMISTRY
+SUGAR
+SUGAR(G/M)
+PROTHROMBIN TIME(PT)
+INR
++ 24/Apr/2025 08:19PM
+BIOCHEMISTRY
+SUGAR(G/M)
+SUGAR(G/M)
+25/Apr/2025 07:48AM
+
+BIOCHEMISTRY
+SUGAR
+
+SUGAR (G/M)
+PROTHROMBIN TIME (PT)
+INR
+
+RENALFUNCTIONTEST
+UREA
+
+" CREATININE
+
+15:5
+TA
+
+188
+128
+
+160
+
+153
+
+14.1
+1.0
+
+OUTSOURCELAB
+
+185
+137
+
+81
+172
+17.8
+13}
+
+193
+
+83
+238
+14.6
+1.0
+
+27
+41.5
+
+sec
+
+mg/dl
+mg/dl
+
+mg/dl
+mg/dl
+
+sec
+
+mg/dl
+mg/dl
+
+mg/dl
+mg/dl
+
+sec
+
+mg/dl
+mg/dl
+
+mg/dl
+mg/dl
+
+sec
+
+0.9to13.5sec
+LABCONTROL13.5
+
+80to120mg/dl
+80to120mg/dl
+
+80to120mg/dl
+80to120mg/dl
+0.9to13.5sec
+LABCONTROL13.5
+
+80to120mg/dl
+80to120mg/dl
+
+80to120mg/dl
+80to120me/dl
+0.9to13.5sec
+LABCONTROL13.5
+
+80to120mg/dl
+80to120meg/dl
+
+80 to 120mg/dl
+80 to 120mg/dl
+0.9 to 13.5sec
+
+LAB CONTROL 13.5
+
+mg/dl
+mg/dl
+
+10 to 50mg/dl
+0.5 to 1.2 mg/dl

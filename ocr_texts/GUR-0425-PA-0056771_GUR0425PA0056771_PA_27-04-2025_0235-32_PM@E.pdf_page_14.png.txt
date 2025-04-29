@@ -1,0 +1,81 @@
+Patient
+
+Ref Doctor
+
+KFT -Kidney Function Test (LKW)*, Serum
+
+Date 24/Apr/2025
+01:26PM
+
+Urea 104.0
+Blood Urea Nitrogen 48.4
+Cresta: | 8.51 (C)
+Sodium 112.5 (C)
+Fotasclum 3.94
+Chloride 86.7
+Uric Acid 6.70
+Seen (Total) 7.31
+
+Kindly correlate with clinical findings
+Note: (C) Represent Critical Value
+
+a = Yadav
+
+OP/IP No/UHID
+
+: OP/SLCS336616/
+
+Collection Date/Time : 24/Apr/2025 01:26PM
+Reporting Date/Time : 24/Apr/2025 03:33PM
+
+Clinical Biochemistry
+
+wT
+
+Unit
+mg/dl
+mg/dl
+mg/dl
+mmol/L
+mmol/L
+mmol/L
+mg/dl
+
+mg/dl
+
+UOT
+
+‘0: SRIN 11106
+
+Centre Private Limited
+
+TTT
+
+Bio Ref Interyal
+
+10.0 - 48.5
+4.67-22.66
+0.4-1,2
+136 - 145
+3.5 - 5.1
+98 - 107
+2.4-5.7
+
+8.8 - 10.2
+
+oe. .
+
+u Shukla Or. Fatema Shareh Naqvi
+Pathologist $r. Consultant Consultant, MD Pathology
+40008
+
+™“* End Of Report **
+
+lest Performed at :5655 - MAX- Starlit Medical Centre Private Limited, Viraj Khand, Gomti Nagar
+
+56.
+
+Booking Centre
+
+55 - MAX- Starlit Medical Centre Private Limited, Viraj Khand, Gomti Nagar,
+The authenticity of the report can be verified by scanning the Q R Code on top of the my

@@ -1,0 +1,37 @@
+Patient
+
+UHID
+
+Referred By
+
+Test Name
+
+Blood Gas Value
+
+Oximetry Values
+
+Electrolyte Values
+
+Metabolite Value
+
+Acid base Status
+
+Range
+
+Provisional Result Entered By
+
+PATHOLOGY
+
+Biological
+
+Sample Date
+
+RE
+Report Date
+
+Report
+
+ner
+
+Method
+
