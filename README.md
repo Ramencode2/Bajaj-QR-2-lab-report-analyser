@@ -1,0 +1,1 @@
+# Bajaj-QR-2-lab-report-analyser
