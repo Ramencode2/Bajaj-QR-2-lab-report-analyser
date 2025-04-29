@@ -117,5 +117,8 @@ Visit [http://localhost:8000/docs](http://localhost:8000/docs) for the interacti
 For questions, suggestions, or contributions, please open an issue or contact [ac8453@srmist.edu.in].
 
 ---
+sample output
+![image](https://github.com/user-attachments/assets/e62c1e53-5c9b-475c-8a15-83b99f1c0cff)
+
 
 
